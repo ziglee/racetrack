@@ -14,6 +14,10 @@ class User {
 	
 	static transients = ['admin']
 	
+	def beforeInsert = {
+		password = password.encodeAsSHA()
+	}
+	
 	boolean isAdmin(){
 		return role == "admin"
 	}

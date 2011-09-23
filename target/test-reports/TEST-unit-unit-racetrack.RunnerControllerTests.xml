@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="DES-28" name="racetrack.RunnerControllerTests" tests="1" time="0.0090" timestamp="2011-09-22T20:53:50">
+<testsuite errors="0" failures="0" hostname="DES-28" name="racetrack.RunnerControllerTests" tests="1" time="0.0090" timestamp="2011-09-23T18:26:57">
   <properties />
   <testcase classname="racetrack.RunnerControllerTests" name="testSomething" time="0.0080" />
   <system-out><![CDATA[--Output from testSomething--

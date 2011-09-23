@@ -35,6 +35,6 @@ class UserTests extends GrailsUnitTestCase {
 		goodUser.save()
 		
 		assertEquals 3, User.count()
-		assertNotNull User.findByLoginAndPassword("good", "password")
+		assertNotNull User.findByLoginAndPassword("good", "password".encodeAsSHA())
 	}
 }

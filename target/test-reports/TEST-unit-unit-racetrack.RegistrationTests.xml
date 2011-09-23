@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="DES-28" name="racetrack.RegistrationTests" tests="1" time="0.0040" timestamp="2011-09-22T20:53:50">
+<testsuite errors="0" failures="0" hostname="DES-28" name="racetrack.RegistrationTests" tests="1" time="0.0030" timestamp="2011-09-23T18:26:57">
   <properties />
-  <testcase classname="racetrack.RegistrationTests" name="testSomething" time="0.0010" />
+  <testcase classname="racetrack.RegistrationTests" name="testSomething" time="0.0020" />
   <system-out><![CDATA[--Output from testSomething--
 ]]></system-out>
   <system-err><![CDATA[--Output from testSomething--
