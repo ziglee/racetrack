@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="DES-28" name="racetrack.UserTests" tests="2" time="0.148" timestamp="2011-09-22T20:53:51">
+  <properties />
+  <testcase classname="racetrack.UserTests" name="testSimpleConstraints" time="0.124" />
+  <testcase classname="racetrack.UserTests" name="testUniqueConstraint" time="0.022" />
+  <system-out><![CDATA[--Output from testSimpleConstraints--
+--Output from testUniqueConstraint--
+]]></system-out>
+  <system-err><![CDATA[--Output from testSimpleConstraints--
+--Output from testUniqueConstraint--
+]]></system-err>
+</testsuite>

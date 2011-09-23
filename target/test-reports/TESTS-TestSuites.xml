@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="DES-28" id="0" name="FooterTagLibTests" package="racetrack" tests="1" time="0.302" timestamp="2011-09-22T20:53:50">
+      <properties />
+
+      <testcase classname="racetrack.FooterTagLibTests" name="testSomething" time="0.292" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="DES-28" id="1" name="RaceControllerTests" package="racetrack" tests="1" time="0.278" timestamp="2011-09-22T20:53:50">
+      <properties />
+
+      <testcase classname="racetrack.RaceControllerTests" name="testSomething" time="0.277" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="DES-28" id="2" name="RaceTests" package="racetrack" tests="1" time="0.014" timestamp="2011-09-22T20:53:50">
+      <properties />
+
+      <testcase classname="racetrack.RaceTests" name="testSomething" time="0.011" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="DES-28" id="3" name="RegistrationControllerTests" package="racetrack" tests="1" time="0.01" timestamp="2011-09-22T20:53:50">
+      <properties />
+
+      <testcase classname="racetrack.RegistrationControllerTests" name="testSomething" time="0.0090" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="DES-28" id="4" name="RegistrationTests" package="racetrack" tests="1" time="0.0040" timestamp="2011-09-22T20:53:50">
+      <properties />
+
+      <testcase classname="racetrack.RegistrationTests" name="testSomething" time="0.0010" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="DES-28" id="5" name="RunnerControllerTests" package="racetrack" tests="1" time="0.0090" timestamp="2011-09-22T20:53:50">
+      <properties />
+
+      <testcase classname="racetrack.RunnerControllerTests" name="testSomething" time="0.0080" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="DES-28" id="6" name="RunnerTests" package="racetrack" tests="1" time="0.0030" timestamp="2011-09-22T20:53:50">
+      <properties />
+
+      <testcase classname="racetrack.RunnerTests" name="testSomething" time="0.0010" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="DES-28" id="7" name="UserControllerTests" package="racetrack" tests="3" time="0.354" timestamp="2011-09-22T20:53:50">
+      <properties />
+
+      <testcase classname="racetrack.UserControllerTests" name="testIndex" time="0.05" />
+
+      <testcase classname="racetrack.UserControllerTests" name="testShow" time="0.282" />
+
+      <testcase classname="racetrack.UserControllerTests" name="testAuthenticate" time="0.021" />
+
+      <system-out><![CDATA[--Output from testIndex--
+--Output from testShow--
+--Output from testAuthenticate--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testIndex--
+--Output from testShow--
+--Output from testAuthenticate--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="DES-28" id="8" name="UserTests" package="racetrack" tests="2" time="0.148" timestamp="2011-09-22T20:53:51">
+      <properties />
+
+      <testcase classname="racetrack.UserTests" name="testSimpleConstraints" time="0.124" />
+
+      <testcase classname="racetrack.UserTests" name="testUniqueConstraint" time="0.022" />
+
+      <system-out><![CDATA[--Output from testSimpleConstraints--
+--Output from testUniqueConstraint--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSimpleConstraints--
+--Output from testUniqueConstraint--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

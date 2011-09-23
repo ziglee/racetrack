@@ -1,0 +1,13 @@
+Testsuite: racetrack.UserTests
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0,148 sec
+------------- Standard Output ---------------
+--Output from testSimpleConstraints--
+--Output from testUniqueConstraint--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testSimpleConstraints--
+--Output from testUniqueConstraint--
+------------- ---------------- ---------------
+
+Testcase: testSimpleConstraints took 0,124 sec
+Testcase: testUniqueConstraint took 0,022 sec

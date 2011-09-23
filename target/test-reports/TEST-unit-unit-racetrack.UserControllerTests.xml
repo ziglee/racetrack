@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="DES-28" name="racetrack.UserControllerTests" tests="3" time="0.354" timestamp="2011-09-22T20:53:50">
+  <properties />
+  <testcase classname="racetrack.UserControllerTests" name="testIndex" time="0.05" />
+  <testcase classname="racetrack.UserControllerTests" name="testShow" time="0.282" />
+  <testcase classname="racetrack.UserControllerTests" name="testAuthenticate" time="0.021" />
+  <system-out><![CDATA[--Output from testIndex--
+--Output from testShow--
+--Output from testAuthenticate--
+]]></system-out>
+  <system-err><![CDATA[--Output from testIndex--
+--Output from testShow--
+--Output from testAuthenticate--
+]]></system-err>
+</testsuite>
